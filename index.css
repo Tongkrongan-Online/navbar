@@ -70,7 +70,6 @@ nav .button {
     top: -1000px;
 }
 
-
 @media (max-width: 1025px) {
 nav ul .togle-li ul {
     display: none;
@@ -125,8 +124,5 @@ nav .button {
 .button .x-togle {
     display: none;
 }
-
-
-
 
 }
